@@ -4,7 +4,6 @@ import { getCourse } from "./redux/actions";
 import {
   Grid,
   Container,
-  Typography,
 } from "@mui/material";
 import './CourseList.css';
 

@@ -1,0 +1,210 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to React",
+      "instructor": "John Doe",
+      "description": "basics of React",
+      "enrollmentStatus": "closed",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to React",
+      "content": "Overview of React, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "React"
+      }
+      ],
+      "progress": 100,
+      "completed": true
+    },
+    
+    {
+        "id": 2,
+        "name": "Introduction to NodeJS",
+        "instructor": "Thapa",
+        "description": "basics of Nodejs",
+        "enrollmentStatus": "In Progress",
+        "duration": "7 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to NodeJS",
+      "content": "Overview of NodeJS, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "NodeJS"
+      }
+      ],
+      "progress": 60,
+      "completed": false
+      },
+
+      {
+        "id": 3,
+        "name": "Introduction to Python",
+        "instructor": "Alex",
+        "description": "basics of Python.",
+        "enrollmentStatus": "In Progress",
+        "duration": "16 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic Python knowledge", "Familiarity with React"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to Python",
+      "content": "Overview of Python, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Python"
+      }
+      ],
+      "progress": 90,
+      "completed": false
+      },
+
+      {
+        "id": 4,
+        "name": "Introduction to Angular",
+        "instructor": "Alexander",
+        "description": "basics of Angular.",
+        "enrollmentStatus": "Closed",
+        "duration": "20 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic Angular knowledge", "Familiarity with React"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to Angular",
+      "content": "Overview of Angular, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Angular"
+      }
+      ],
+      "progress": 100,
+      "completed": true
+      },
+
+      {
+        "id": 5,
+        "name": "Introduction to C",
+        "instructor": "John",
+        "description": "basics of C",
+        "enrollmentStatus": "Closed",
+        "duration": "18 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic C knowledge", "Familiarity with React"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to C",
+      "content": "Overview of C, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "C"
+      }
+      ],
+      "progress": 87,
+      "completed": false
+      },
+
+      {
+        "id": 6,
+        "name": "Introduction to C++",
+        "instructor": "Broady",
+        "description": "basics of C++",
+        "enrollmentStatus": "Closed",
+        "duration": "6 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic C++ knowledge", "Familiarity with C++"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to C++",
+      "content": "Overview of C++, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "hi."
+      }
+      ],
+      "progress": 93,
+      "completed": false
+      },
+
+      {
+        "id": 7,
+        "name": "Introduction to PHP",
+        "instructor": "Jimmy",
+        "description": "basics of PHP",
+        "enrollmentStatus": "In Progress",
+        "duration": "8 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic PHP knowledge", "Familiarity with PHP"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to PHP",
+      "content": "Overview of PHP, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "hello world"
+      }
+      ],
+      "progress": 95,
+      "completed": false
+      },
+
+      {
+        "id": 8,
+        "name": "Introduction to Python",
+        "instructor": "KL",
+        "description": "basics of Python.",
+        "enrollmentStatus": "In Progress",
+        "duration": "8 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites" : ["Basic Python knowledge", "Familiarity with Python"],
+      "syllabus" : [
+      {
+      "week": 1,
+      "topic": "Introduction to Python",
+      "content": "Overview of Python, setting up your development environment."
+      },
+      {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "hello world"
+      }
+      ],
+      "progress": 97,
+      "completed": false
+      }
+    
+  ]
